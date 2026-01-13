@@ -1,6 +1,7 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/Kaizerpus/BJ-Counter/releases/download/v1.0.2/BJCounterGUI.exe",
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/Kaizerpus/BJ-Counter/releases/download/v1.0.3/BJCounterGUI.exe",
   "releaseNotes": "Initial release med:\n- Numpad-stöd\n- Strategiråd\n- Auto-deck-uppdatering\n- Persistent betting-råd\n- Global hotkeys\n- Compact mode"
 }
+
 
